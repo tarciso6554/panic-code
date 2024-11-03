@@ -1,3 +1,4 @@
+#Panic code
 Panic Code - Uma Linguagem de Programação em Português
 Panic Code é uma linguagem de programação open source em fase inicial, desenvolvida em Rust por Tarcisio Carvalho de Andrade Linhares. O projeto visa tornar o desenvolvimento de software mais acessível para falantes de português, utilizando palavras-chave em português e afastando-se de convenções tradicionais para criar uma experiência de codificação mais intuitiva e inclusiva.
 
