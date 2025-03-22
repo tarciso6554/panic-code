@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Turing%20-%20Linguagem%20de%20Programação-blueviolet?style=for-the-badge&logo=rust&logoColor=white" alt="Turing Logo">
+  <img src="https://img.shields.io/badge/Turing%20-%20Linguagem%20de%20Programação-blueviolet?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Turing Logo">
 </p>
 
 <h1 align="center" style="font-size: 3em; color: #4B0082;">🚀 **Turing**</h1>
@@ -8,7 +8,7 @@
 <p align="center">
   🌍 **Facilitando o desenvolvimento para falantes de português.**<br>
   ⚡ **Desempenho incrível, sintaxe intuitiva, e open source.**<br>
-  💻 **Desenvolvida em Rust** para maior segurança e performance.
+  💻 **Desenvolvida em C++** para maior eficiência e performance.
 </p>
 
 ---
@@ -18,7 +18,7 @@
 **Turing** foi criada com o objetivo de tornar o desenvolvimento de software mais acessível e natural para falantes de português. Através de uma sintaxe simples e eficiente, buscamos **democratizar o acesso ao aprendizado de programação**.
 
 🔹 **Fácil de aprender**: Com palavras-chave em português, fica mais próximo da linguagem natural.  
-🔹 **Alto desempenho**: Construída com **Rust**, garantindo robustez e segurança.  
+🔹 **Alto desempenho**: Construída com **C++**, garantindo robustez e velocidade.  
 🔹 **Experiência divertida**: Mensagens de erro com humor para aliviar a depuração.  
 🔹 **Completamente open source**: Você pode contribuir, sugerir melhorias e crescer junto conosco.  
 
@@ -29,8 +29,8 @@
 ### 🔑 **Palavras-chave em português**
 Em vez de comandos em inglês, usamos termos como `público`, `imprima`, `enquanto`. Isso aproxima a linguagem da forma como nos comunicamos.
 
-### 🚀 **Desempenho e Segurança com Rust**
-Desenvolvida com a poderosa linguagem **Rust**, a Turing oferece **alta performance e segurança** no desenvolvimento de sistemas e aplicativos.
+### 🚀 **Desempenho e Eficiência com C++**
+Desenvolvida com a poderosa linguagem **C++**, a Turing oferece **alta performance e eficiência** para sistemas de qualquer porte.
 
 ### 🤣 **Mensagens de Erro Humorísticas**
 A depuração de erros fica mais leve! **Turing** traz mensagens de erro divertidas para que até os bugs possam te fazer rir.
@@ -44,7 +44,9 @@ A depuração de erros fica mais leve! **Turing** traz mensagens de erro diverti
 
 Aqui está um exemplo simples de como escrever um programa na **Turing**:
 
-```turing
+```cpp
+#include <iostream>
+
 público função principal() {
     imprima("Olá, mundo! 🌍");
 }
