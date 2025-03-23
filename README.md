@@ -45,7 +45,7 @@ A depuração de erros fica mais leve! **Turing** traz mensagens de erro diverti
 Aqui está um exemplo simples de como escrever um programa na **Turing**:
 
 ```cpp
-#include <iostream>
+use turing.std;
 
 público função principal() {
     imprima("Olá, mundo! 🌍");
